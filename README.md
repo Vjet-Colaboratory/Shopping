@@ -83,3 +83,9 @@ Sau khi cấu hình.
   }
 }
 ```
+
+Để chạy dự án ta chạy lệnh:
+
+```
+npm run dev
+```

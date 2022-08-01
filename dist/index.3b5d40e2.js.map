@@ -1,0 +1,1 @@
+{"mappings":"AAAA,QAAQ,CAAC,KAAK,CACZ,CAAC,8DAA8D,CAAC,CACjE,CAAC","sources":["app/app.js"],"sourcesContent":["document.write(\r\n  `<button type=\"button\" class=\"btn btn-primary\">Primary</button>`\r\n);\r\n"],"names":[],"version":3,"file":"index.3b5d40e2.js.map","sourceRoot":"/__parcel_source_root/"}

@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/Vjet-Colaboratory/Shopping#readme",
   "devDependencies": {
+    "buffer": "^6.0.3",
     "parcel": "^2.6.2",
     "parcel-plugin-static-files-copy": "^2.6.0"
   },
